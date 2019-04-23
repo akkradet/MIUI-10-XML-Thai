@@ -142,7 +142,7 @@
     <string name="description_calendar">แอประบบ/ปฏิทิน</string>
     <string name="description_calendar_edit_event">แอประบบ/ปฏิทิน/หัวเรื่อง</string>
     <string name="directory_searching_fmt">กำลังค้นหา %s…</string>
-    <string name="discard_label">ยกเลิก </string>
+    <string name="discard_label">ยกเลิก </string>
     <string name="does_not_repeat">กิจกรรมแบบครั้งเดียว</string>
     <string name="edit_date_calculate_days_backward_error_hint">ไม่สามารถคำนวนต่อไปข้างหน้าได้</string>
     <string name="edit_date_calculate_days_empty_hint">ป้อนจำนวนวัน</string>
@@ -290,7 +290,6 @@
     <string name="month_view">เดือน</string>
     <string name="monthly">รายเดือน</string>
     <string name="monthly_on_day">ทุกเดือน (วันที่เดียวกันของแต่ละเดือน)</string>
-    <string name="monthly_on_day_count">รายเดือน (ทุกวัน%2$sที่%2$sของเดือน)</string>
     <string name="network_not_available">ไม่สามารถเชื่อมต่อกับเครือข่ายได้</string>
     <string name="new_event_description">ใหม</string>
     <string name="news">ข่าว</string>
@@ -323,8 +322,8 @@
     <string name="panchang_shaka_samvat">ชากา สัมวัต</string>
     <string name="panchang_sun_sign">สุริยคติ</string>
     <string name="panchang_tithi">ทิธิ</string>
-    <string name="panchang_to"> ถึง </string>
-    <string name="panchang_upto"> จนถึง </string>
+    <string name="panchang_to"> ถึง </string>
+    <string name="panchang_upto"> จนถึง </string>
     <string name="panchang_vikram_samvat">วิคราม สัมวัต</string>
     <string name="panchang_yamaghanta">ยามากหานตา</string>
     <string name="panchang_yog">ยอก</string>
@@ -461,7 +460,7 @@
     <string name="unsubscribe_card_success">ยกเลิกการสมัครจาก“%1$s”เรียบร้อยแล้ว</string>
     <string name="unsubscribing_card">ยกเลิกการสมัครแล้ว</string>
     <string name="use_system_language">ใช้ภาษาของระบบ</string>
-    <string name="user_notice_button_exit">ยกเลิก </string>
+    <string name="user_notice_button_exit">ยกเลิก </string>
     <string name="user_notice_button_ok">ตกลง</string>
     <string name="user_notice_message">สำหรับการใช้ผลิตภัณฑ์นี้ คุณต้องเห็นด้วยกับ%1$sและ%2$sของ Xiaomi คุณลักษณะบางอย่างจำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตและการเข้าถึงตำแหน่งและรายชื่อเพื่อการทำงานที่ปกติ</string>
     <string name="user_notice_title">โปรดทราบ</string>
