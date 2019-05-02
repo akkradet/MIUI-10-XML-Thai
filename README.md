@@ -8,6 +8,6 @@ THAI Global translation for mi-room miui.ms miui.su minovo miui.hu miuipro ros-r
 ## :cupid: For all problems:
 - https://github.com/akkradet/MIUI-10-XML-Thai/issues
 
-## :Special thanks to:
+### :cupid: Special thanks to:
 - ingbrzy
 - Xiaomi.eu
