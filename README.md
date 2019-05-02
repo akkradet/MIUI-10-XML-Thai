@@ -1,7 +1,7 @@
 ![MIUI10_logo](https://i.imgur.com/s5PsCYM.png)
 ## :cupid: MIUI-10-XML-Thai
 THAI Global translation for mi-room miui.ms miui.su minovo miui.hu miuipro ros-rom MultiRom project.
-# MIUI10 Thai Translations.
+## :cupid: MIUI10 Thai Translations.
     This is repository for MIUIAndroid MultiRom project.
 ## :cupid: Translator:
 - 
