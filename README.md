@@ -4,7 +4,18 @@ THAI Global translation for mi-room miui.ms miui.su minovo miui.hu miuipro ros-r
 ## :cupid: MIUI10 Thai Translations.
     This is repository for MIUIAndroid MultiRom project.
 ## :cupid: Translator:
-- 
+--Thai--
+- Kittithutt U. (bacidea)
+- Kittiphit P. (BlackCat)
+- Anon C. (igobig)
+- Somchai P. (Jorse)
+- Peejung CEO
+- Kaiten
+- Weeranarin D. (Toffy)
+- Pakpum B. (Poomsz)
+- Gooagolf
+- Chat Aiyara
+- Krating
 ## :cupid: For all problems:
 - https://github.com/akkradet/MIUI-10-XML-Thai/issues
 
