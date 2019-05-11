@@ -84,7 +84,7 @@
     <string name="call_main">โทรเบอร์หลัก</string>
     <string name="call_mms">โทร MMS</string>
     <string name="call_mobile">โทรเบอร์มือถือ</string>
-    <string name="call_not_found"> --</string>
+    <string name="call_not_found"> --</string>
     <string name="call_operator_init">เลือกผู้ให้บริการ</string>
     <string name="call_other">โทร</string>
     <string name="call_other_fax">โทรเบอร์แฟกซ์</string>
@@ -502,7 +502,7 @@
     <string name="group_create_fail_toast">ไม่สามารถสร้างกลุ่มได้</string>
     <string name="group_create_success_toast">กลุ่มถูกสร้างแล้ว</string>
     <string name="group_delete_success_toast">กลุ่มถูกลบแล้ว</string>
-    <string name="group_detail_label_placeholder"> </string>
+    <string name="group_detail_label_placeholder"> </string>
     <string name="group_edit_field_hint_text">ชื่อกลุ่ม</string>
     <string name="group_member_remove_fail_toast">ไม่ลบออกจากกลุ่ม</string>
     <string name="group_member_remove_success_toast">ลบออกจากกลุ่มแล้ว</string>
