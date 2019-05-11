@@ -106,7 +106,7 @@
     <string name="as_new_device">ปรับเป็นหน้าจอหลักและการตั้งค่าก่อนหน้านี้</string>
     <string name="as_new_device_summary">ลบการสำรองข้อมูล Mi คลาวด์ก่อนหน้านี้</string>
     <string name="restore_data_summary">คุณลักษณะนี้จำเป็นต้องเชื่อมต่ออินเทอร์เน็ต</string>
-    <string name="query_restore_summary">พบการสำรองข้อมูล Mi คลาวด์สำหรับอุปกรณ์นี้ คืนค่าแอปบนหน้าจอหลักและการตั้งค่าหรือใช้เป็นอุปกรณ์ใหม่และลบการสำรองข้อมูลก่อน Mi คลาวด์ก่อนหน้านี้?</string>
+    <string name="query_restore_summary">พบการสำรองข้อมูล Mi คลาวด์สำหรับอุปกรณ์เครื่องนี้ คุณต้องการเรียกคืนค่าแอปบนหน้าจอหลักและการตั้งค่าหรือใช้สำหรับเครื่องอื่นและลบข้อมูลสำรองใน Mi คลาวด์ก่อนหน้านี้?</string>
     <string name="restore_home_screen_apps">คืนค่าจากข้อมูลสำรองใน Mi คลาวด์</string>
     <string name="query_restore_description">คืนค่าแอปบนหน้าจอหลักและการตั้งค่าโดยใช้การสำรองข้อมูลนี้ โดยจะแทนที่ข้อมูลแอปสำหรับแอปซ้ำกันที่ติดตั้งอยู่บนอุปกรณ์นี้ แอปที่ไม่รวมอยู่ในข้อมูลสำรองจะถูกย้ายไปไว้หน้าสุดท้ายของหน้าจอหลัก</string>
     <string name="restore_from_this_device">คืนค่าโดยใช้ข้อมูลสำรองนี้</string>
@@ -160,7 +160,7 @@
     <string name="dialog_msg_restore_require_wlan">การเรียกคืนข้อมูลสำรองจำเป็นต้องเชื่อมต่อกับ Wi-Fi</string>
     <string name="dialog_btn_next">ถัดไป</string>
     <string name="dialog_btn_restore_skip">คืนค่าในภายหลัง</string>
-    <string name="dialog_btn_cancel_backup">ยกเลิก </string>
+    <string name="dialog_btn_cancel_backup">ยกเลิก </string>
     <string name="dialog_btn_overwrite_backup">แทนที่</string>
     <string name="dialog_msg_overwrite_backup">การสำรองข้อมูลภายในเครื่องแตกต่างจากระบบใน Mi Cloud หากคุณดำเนินการต่อ การสำรองข้อมูลปัจจุบันจะแทนที่ไฟล์ก่อนหน้านี้</string>
     <string name="cloud_backup">การสำรองข้อมูล Mi คลาวด์</string>
@@ -180,7 +180,7 @@
     <string name="restoring_settings">กำลังเรียกคืนค่าการตั้งค่า…</string>
     <string name="title_alert_cancel_restore">หยุดการเรียกคืนค่า</string>
     <string name="msg_alert_cancel_restore">เรียกคืนรายการ หยุดเดี๋ยวนี้?</string>
-    <string name="btn_restore_cancel">ยกเลิก </string>
+    <string name="btn_restore_cancel">ยกเลิก </string>
     <string name="btn_restore_resume">ทำต่อ</string>
     <string name="btn_restore_wait">รอเครือข่าย Wi-Fi</string>
     <string name="btn_restore_continue">เรียกคืนค่าต่อไป</string>
@@ -191,11 +191,12 @@
     <string name="title_alert_restore_error">ไม่สามารถกู้คืนไฟล์ได้</string>
     <string name="msg_alert_restore_error">ไม่สามารถคืนค่ารายการจาก Mi Cloud ได้ ลองอีกครั้ง</string>
     <string name="btn_restore_retry">ลองใหม่</string>
-    <string name="btn_restore_abort">ยกเลิก </string>
+    <string name="btn_restore_abort">ยกเลิก </string>
     <string name="backup_stopped_title">ข้อมูลสำรองถูกหยุด</string>
     <string name="backup_stopped_msg">ข้อมูลสำรองปัจจุบันจะแทนที่ของก่อนหน้านี้ แตะเพื่อดู</string>
     <string name="restore_network_unconnect">%s (กำลังรอการเชื่อมต่อ)</string>
     <string name="restore_network_pause">%s (แตะเพื่อทำต่อ)</string>
+    <string name="hint_restore_cross_space">การจัดเรียงหน้าจอหลักอาจไม่แสดงผลอย่างถูกต้องหากคุณถ่ายโอนรายการระหว่างพื้นที่</string>
     <string name="restore_detail_title">เลือกรายการเพื่อเรียกคืนค่า</string>
     <string name="restore_detail_category_settings">การตั้งค่า</string>
     <string name="restore_detail_category_apps">การจัดเรียงหน้าจอหลัก &amp; แอป</string>
@@ -212,4 +213,6 @@
     <string name="restore_app_order_finish">เสร็จสิ้น</string>
     <string name="provision_restore_data">รายการเรียกคืนค่า</string>
     <string name="provision_background_restore_more_data">เรียกคืนค่ารายการเพิ่มเติมในพื้นหลัง</string>
+    <string name="selected">เลือกไว้</string>
+    <string name="unselected">ไม่ได้เลือกไว้</string>
 </resources>
