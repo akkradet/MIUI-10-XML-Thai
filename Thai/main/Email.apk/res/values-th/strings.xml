@@ -79,10 +79,10 @@
     <string name="account_setup_basics_password_label">รหัสผ่าน</string>
     <string name="account_setup_basics_title">เพิ่มบัญชี</string>
     <string name="account_setup_check_settings_check_incoming_msg">กำลังตรวจสอบการตั้งค่าบนเซิร์ฟเวอร์…</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">    ตรวจสอบการตั้งค่า SMTP…</string>
-    <string name="account_setup_check_settings_retr_info_msg">"        กำลังเรียกใช้ข้อมูลบัญชีผู้ใช้"</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">    ตรวจสอบการตั้งค่า SMTP…</string>
+    <string name="account_setup_check_settings_retr_info_msg">"        กำลังเรียกใช้ข้อมูลบัญชีผู้ใช้"</string>
     <string name="account_setup_correct_address_tips">ป้อนที่อยู่อีเมล</string>
-    <string name="account_setup_creating_account_msg">"        กำลังสร้างบัญชีผู้ใช้…"</string>
+    <string name="account_setup_creating_account_msg">"        กำลังสร้างบัญชีผู้ใช้…"</string>
     <string name="account_setup_deleting_account_msg">"    กำลังลบบัญชีออก…"</string>
     <string name="account_setup_exchange_certificate_title">ใบรับรองของเครื่องลูกข่าย</string>
     <string name="account_setup_exchange_device_id_label">ชื่ออุปกรณ์เคลื่อนที่</string>
@@ -238,7 +238,7 @@
     <string name="bottom_bar_more_quickreply">ตอบด่วน</string>
     <string name="bottom_bar_more_share">แชร์</string>
     <string name="bottom_bar_no_quickreply_toast">ไม่มีข้อความตอบด่วน</string>
-    <string name="bytes">%s B</string>
+    <string name="bytes">%s B</string>
     <string name="calendar_remind_dialog_title">เตือนในภายหลัง</string>
     <string name="calendar_remind_gridview_pick_date">เลือกวัน</string>
     <string name="cancel">ยกเลิก</string>
@@ -254,7 +254,7 @@
     <string name="changepw_dialog_tips_please_clikc_btn">เรียกดูรหัสยืนยัน %s และลงชื่อเข้าใช้อีกครั้ง</string>
     <string name="chat_item_msg_people_unit">บุคคล</string>
     <string name="chat_item_msg_user_etc">ฯลฯ</string>
-    <string name="check_setup_data">"        ตรวจสอบการตั้งค่าบนเซิร์ฟเวอร์…"</string>
+    <string name="check_setup_data">"        ตรวจสอบการตั้งค่าบนเซิร์ฟเวอร์…"</string>
     <string name="choosertitle_sharevia">แชร์โดยใช้</string>
     <string name="clear">ล้าง</string>
     <string name="clear_display_images_whitelist_dialog_message">ยุติการแสดงรูปภาพแบบอินไลน์จากผู้ส่งที่คุณได้อนุญาตไว้แล้ว</string>
@@ -386,7 +386,7 @@
     <string name="download_confirm_message">ดาวน์โหลด %1$s ไฟล์แนบ?</string>
     <string name="download_confirm_title">ดาวน์โหลดไฟล์แนบ</string>
     <string name="download_message_failed_for_too_large">ดาวน์โหลดข้อความไม่ได้เนื่องจากมีขนาดใหญ่เกินกำหนด</string>
-    <string name="draft_count_format"> (%1$s)</string>
+    <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">บัญชีธนาคาร</string>
     <string name="drawer_classification">หมวดหมู่</string>
     <string name="drawer_close">ปิดตัวนำทาง</string>
@@ -497,7 +497,7 @@
     <string name="interact_with_server_error">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้</string>
     <string name="invalid_recipient">ที่อยู่บัญชี %s ไม่ถูกต้อง</string>
     <string name="invalid_recipient_title">ชื่อผู้รับไม่ถูกต้อง</string>
-    <string name="kilobytes">%s KB</string>
+    <string name="kilobytes">%s KB</string>
     <string name="load_from_remote">ค้นหาในกล่องข้อความบนเซิร์ฟเวอร์</string>
     <string name="load_more">โหลดเพิ่มเติม</string>
     <string name="loading_conversation">กำลังโหลด…</string>
@@ -581,7 +581,7 @@
     <string name="meeting_where">"
         ที่ไหน:
 %s "</string>
-    <string name="megabytes">%s MB</string>
+    <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">ไฟล์แนบ</string>
     <string name="menu_att_mgr_order_default">ที่อ่านล่าสุด</string>
     <string name="menu_att_mgr_order_mime">ฟอร์แมต</string>
@@ -921,7 +921,7 @@
     <string name="send_feed_back_keywords">ส่งข้อเสนอแนะ</string>
     <string name="send_mail">ส่ง</string>
     <string name="sender_whitelist_cleared">ภาพถ่ายจะไม่แสดงโดยอัตโนมัติอีกต่อไป</string>
-    <string name="senders_split_token">, </string>
+    <string name="senders_split_token">, </string>
     <string name="sending">กำลังส่ง…</string>
     <string name="sending_message">กำลังส่งข้อความ…</string>
     <string name="sending_quick_reply">กำลังส่ง \"%s\"</string>
