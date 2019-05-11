@@ -19,7 +19,7 @@
     <string name="abc_toolbar_collapse_description">ยุบ</string>
     <string name="search_menu_title">ค้นหา</string>
     <string name="add_to_trust_device">นี้คืออุปกรณ์ที่ฉันเชื่อถือ</string>
-    <string name="and"> และ </string>
+    <string name="and"> และ </string>
     <string name="bind_sign_in_title">เพิ่มบัญชี</string>
     <string name="choose_to_signin">ใช่</string>
     <string name="choose_to_signup">ไม่ ฉันต้องการสร้างบัญชี</string>
@@ -53,7 +53,7 @@
     <string name="passport_unknow_host_network_error">ตรวจสอบการตั้งค่าเครือข่ายของคุณแล้วลองใหม่อีกครั้ง</string>
     <string name="passport_unknow_network_error">เครือข่ายขัดข้อง</string>
     <string name="passport_user_agreement">ข้อตกลงการใช้งาน</string>
-    <string name="passport_user_agreement_prefix">ยอมรับ  </string>
+    <string name="passport_user_agreement_prefix">ยอมรับ  </string>
     <string name="passport_user_id_intro">เข้าสู่ระบบ %1$s</string>
     <string name="passport_v_code_error">รหัสยืนยันไม่ถูกต้อง</string>
     <string name="passport_wechat_not_install">ยังไม่ได้ติดตั้ง WeChat</string>
