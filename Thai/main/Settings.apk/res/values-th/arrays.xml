@@ -238,7 +238,7 @@
     <string-array name="battery_indicator_style_entries">
         <item>กราฟิก</item>
         <item>เปอร์เซ็นต์ (ในไอคอน)</item>
-        <item>เปอร์เซ็นต์ (ถัดไปยังไอคอน)</item>
+        <item>เปอร์เซ็นต์ (ถัดจากไอคอน)</item>
         <item>แถบด้านบน</item>
     </string-array>
     <string-array name="battery_labels">
@@ -324,21 +324,21 @@
         <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ เสียง</item>
-        <item>Qualcomm® aptX™ HD เสียง</item>
+        <item>เสียง Qualcomm® aptX™</item>
+        <item>เสียงQualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive เสียง</item>
+        <item>เสียง Qualcomm® aptX™ Adaptive</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>การตั้งค่าระบบที่ใช้ (ค่าเริ่มต้น)</item>
+        <item>ใช้ค่ากำหนดของระบบ (ค่าเริ่มต้น)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ เสียง</item>
-        <item>Qualcomm® aptX™ HD เสียง</item>
+        <item>เสียง Qualcomm® aptX™</item>
+        <item>เสียงQualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive เสียง</item>
+        <item>เสียง Qualcomm® aptX™ Adaptive</item>
         <item>เปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
         <item>ปิดใช้งานตัวแปลงสัญญาณตัวเลือก</item>
     </string-array>
@@ -762,6 +762,24 @@
         <item>30 วันที่ผ่านมา</item>
         <item>ตั้งรอบการใช้...</item>
     </string-array>
+    <string-array name="date_of_app_all">
+        <item>"วันนี้ (ข้อมูลมือถือ) "</item>
+        <item>"เดือนนี้ (ข้อมูลมือถือ) "</item>
+        <item>"เดือนที่แล้ว (ข้อมูลมือถือ) "</item>
+        <item>"วันนี้ (Wi-Fi) "</item>
+        <item>"เดือนนี้ (Wi-Fi) "</item>
+        <item>"เดือนที่แล้ว (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"วันนี้ "</item>
+        <item>"เดือนนี้ "</item>
+        <item>"เดือนที่แล้ว "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"วันนี้: "</item>
+        <item>"เดือนนี้: "</item>
+        <item>"เดือนที่แล้ว: "</item>
+    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>ปิด</item>
         <item>แสดงพื้นที่การวาดเกิน</item>
@@ -800,7 +818,7 @@
         <item>รีบูตเครื่องเพื่อใช้การตั้งค่าใหม่?</item>
     </string-array>
     <string-array name="fluency_mode_entries">
-        <item>ไม่ใช้ภาพเคลื่อนไหวระบบ</item>
+        <item>ซ่อนภาพเคลื่อนไหวระบบ</item>
         <item>แสดงภาพเคลื่อนไหวระบบ</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
@@ -814,7 +832,7 @@
     </string-array>
     <string-array name="fold_summaries">
         <item>MIUI จะตัดสินใจว่าจะให้มีการแจ้งเตือนใด</item>
-        <item>การแจ้งเตือนจะปรากฏในหแถบการแจ้งเตือน</item>
+        <item>การแจ้งเตือนจะปรากฏในแถบการแจ้งเตือน</item>
         <item>การแจ้งเตือนจะปรากฏในโฟลเดอร์แยก</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
@@ -935,7 +953,7 @@
         <item>Windows XP และเวอร์ชั่นเก่ากว่า</item>
         <item>Windows Vista และเวอร์ชั่นใหม่กว่า</item>
         <item>OSX</item>
-        <item>ลีนุกซ์</item>
+        <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
@@ -1262,6 +1280,10 @@
         <item>1</item>
         <item>2</item>
     </string-array>
+    <string-array name="traffic_type">
+        <item>"การใช้ข้อมูลมือถือ "</item>
+        <item>"การใช้ Wi-Fi "</item>
+    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>ปิดภาพเคลื่อนไหว</item>
         <item>ภาพเคลื่อนไหวซูม 5x</item>
@@ -1518,5 +1540,10 @@
         <item>ภาพเคลื่อนไหวซูม 2x</item>
         <item>ภาพเคลื่อนไหวซูม 5x</item>
         <item>ภาพเคลื่อนไหวซูม 10x</item>
+    </string-array>
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>กราฟิก</item>
+        <item>เปอร์เซ็นต์ (ในไอคอน)</item>
+        <item>เปอร์เซ็นต์ (ถัดจากไอคอน)</item>
     </string-array>
 </resources>
