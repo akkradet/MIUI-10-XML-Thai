@@ -9,6 +9,10 @@
         <item>เด็กชาย</item>
         <item>เด็กหญิง</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>สำรองรูปภาพ</item>
+        <item>ซิงค์รูปภาพด้วย Mi คลาวด์</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>วันหยุดสุดสัปดาห์ของฉัน</item>
         <item>บิตของชีวิต</item>

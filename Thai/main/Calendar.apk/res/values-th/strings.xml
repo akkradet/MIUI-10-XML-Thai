@@ -64,6 +64,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">หมดอายุแล้ว</string>
     <string name="alert_title">การแจ้งเตือนปฏิทิน</string>
+    <string name="all_events">กิจกรรมทั้งหมด</string>
     <string name="anniversary_event_title">ครบรอบปี: %1$s</string>
     <string name="anniversary_secondary_tag">ครบรอบปี</string>
     <string name="app_label">ปฏิทิน</string>
@@ -143,7 +144,7 @@
     <string name="description_calendar">แอประบบ/ปฏิทิน</string>
     <string name="description_calendar_edit_event">แอประบบ/ปฏิทิน/หัวเรื่อง</string>
     <string name="directory_searching_fmt">กำลังค้นหา %s…</string>
-    <string name="discard_label">ยกเลิก </string>
+    <string name="discard_label">ยกเลิก </string>
     <string name="does_not_repeat">กิจกรรมแบบครั้งเดียว</string>
     <string name="edit_date_calculate_days_backward_error_hint">ไม่สามารถคำนวนต่อไปข้างหน้าได้</string>
     <string name="edit_date_calculate_days_empty_hint">ป้อนจำนวนวัน</string>
@@ -300,7 +301,7 @@
     <string name="no_events_hint">ไม่มีกิจกรรม</string>
     <string name="no_internet">ไม่สามารถเชื่อมต่อเครือข่ายได้</string>
     <string name="no_network">"ไม่สามารถเชื่อมต่อเครือข่ายได้ 
-กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองใหม่"</string>
+กรุณาตรวจสอบการตั้งค่าเครือข่ายแล้วลองอีกครั้ง"</string>
     <string name="no_network_btn">ลองอีกครั้ง</string>
     <string name="no_storage">พื้นที่จัดเก็บไม่เพียงพอ</string>
     <string name="no_title_label">(ไม่มีชื่อ)</string>
@@ -325,8 +326,8 @@
     <string name="panchang_shaka_samvat">ชากา สัมวัต</string>
     <string name="panchang_sun_sign">สุริยคติ</string>
     <string name="panchang_tithi">ทิธิ</string>
-    <string name="panchang_to"> ถึง </string>
-    <string name="panchang_upto"> จนถึง </string>
+    <string name="panchang_to"> ถึง </string>
+    <string name="panchang_upto"> จนถึง </string>
     <string name="panchang_vikram_samvat">วิคราม สัมวัต</string>
     <string name="panchang_yamaghanta">ยามากหานตา</string>
     <string name="panchang_yog">ยอก</string>
@@ -344,6 +345,7 @@
     <string name="preferences_default_reminder_title">ค่าเริ่มต้นเวลาแจ้งเตือน</string>
     <string name="preferences_home_tz_title">โซนเวลาบ้าน</string>
     <string name="preferences_notification_ringtone_title">เสียง</string>
+    <string name="preferences_show_indic_date_title">แสดงปฏิทินอินเดีย</string>
     <string name="preferences_title">ปฏิทิน</string>
     <string name="preferences_use_home_tz_descrip">แสดงปฏิทินและเวลากิจกรรมในเขตเวลาบ้านของคุณเมื่อเดินทาง</string>
     <string name="preferences_use_home_tz_title">ใช้โซนเวลาบ้าน</string>
@@ -403,10 +405,12 @@
     <string name="setting_others">เพิ่มเติม</string>
     <string name="setting_title_about">เกี่ยวกับ</string>
     <string name="setting_title_holiday_display">แสดงวันหยุด</string>
+    <string name="setting_title_policy">นโยบายความเป็นส่วนตัว</string>
     <string name="share_image">แชร์</string>
     <string name="share_image_label">แชร์ผ่าน</string>
     <string name="share_title">แชร์</string>
     <string name="show_day_view">แสดงวัน</string>
+    <string name="show_indic_date_summary">ปฏิทินอินเดียจะใช้ได้เมื่อใดภาษาหนึ่งของอินเดียถูกกำหนดให้เป็นภาษาของระบบของคุณ</string>
     <string name="start_date_calculate">คำนวณ</string>
     <string name="storage_permission_denied">อนุญาตการเข้าถึงที่เก็บข้อมูลก่อน</string>
     <string name="subscribe_card">สมัครทันที</string>
@@ -463,7 +467,7 @@
     <string name="unsubscribe_card_success">ยกเลิกการสมัครจาก“%1$s”เรียบร้อยแล้ว</string>
     <string name="unsubscribing_card">ยกเลิกการสมัครแล้ว</string>
     <string name="use_system_language">ใช้ภาษาของระบบ</string>
-    <string name="user_notice_button_exit">ยกเลิก </string>
+    <string name="user_notice_button_exit">ยกเลิก </string>
     <string name="user_notice_button_ok">ตกลง</string>
     <string name="user_notice_message">สำหรับการใช้ผลิตภัณฑ์นี้ คุณต้องเห็นด้วยกับ%1$sและ%2$sของ Xiaomi คุณลักษณะบางอย่างจำเป็นต้องมีการเชื่อมต่ออินเทอร์เน็ตและการเข้าถึงตำแหน่งและรายชื่อเพื่อการทำงานที่ปกติ</string>
     <string name="user_notice_title">โปรดทราบ</string>

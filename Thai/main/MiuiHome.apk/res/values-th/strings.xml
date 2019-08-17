@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">เพิ่มไปยังหน้าแรก</string>
     <string name="activity_not_found">ไม่พบการติดตั้งแอปในเครื่อง</string>
+    <string name="activity_not_unlocked">รอจนกว่าอุปกรณ์ของคุณจะรีบูตอย่างสมบูรณ์ก่อนที่จะเปิดแอป</string>
     <string name="add_screen">เพิ่มหน้าจอ</string>
     <string name="announce_for_app_move_in_folder">ย้ายไปที่ตำแหน่ง %1$d ในโฟลเดอร์</string>
     <string name="announce_for_checked">%1$s เลือกแล้ว</string>
@@ -30,9 +31,11 @@
     <string name="announce_for_open_default_preview">เปิดการตั้งค่าหน้าจอหลักเริ่มต้น</string>
     <string name="announce_for_open_folder">เปิดโฟลเดอร์ %1$s</string>
     <string name="announce_for_open_launcher_menu">เปิดเมนูแล้ว</string>
+    <string name="announce_for_search_bar">แถบค้นหา</string>
     <string name="announce_for_show_uninstall_dialog">มีการถอนการติดตั้งกล่องโต้ตอบ ยกเลิกหรือยืนยัน</string>
     <string name="announce_for_unchecked">%1$s ยังไม่เลือก</string>
     <string name="announce_for_widget_span">กว้าง %1$d, สูง %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">มีแอปนี้อยู่ในเครื่องแล้ว</string>
     <string name="app_being_backup_message">ระบบกำลังสำรองข้อมูลแอป</string>
     <string name="app_being_restored_message">กำลังเรียกคืนค่าแอป</string>
@@ -92,6 +95,7 @@
     <string name="defalut_launcher_title">ค่าเริ่มต้นชุดเรียกใช้ระบบ</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">เกมส์</string>
+    <string name="default_folder_title_meitu">แอป Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">แอปเพิ่มเติม</string>
     <string name="default_folder_title_security">ระบบ</string>
@@ -110,9 +114,12 @@
     <string name="drag_single_item_name" />
     <string name="dual_app">แอปโคลน</string>
     <string name="edit_folder_title">แก้ไขชื่อโฟลเดอร์</string>
+    <string name="edit_mode_dual_app">สร้างแอปโคลน</string>
     <string name="edit_mode_group">กลุ่ม</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">ไม่สามารถถอนการติดตั้งแอประบบได้</string>
     <string name="edit_mode_group_error_full">พื้นที่ว่างไม่เพียงพอ</string>
     <string name="edit_mode_group_error_in_folder">ปิดโฟลเดอร์ก่อนที่จะจัดกลุ่มไอคอน</string>
+    <string name="edit_mode_group_error_nothing_be_selected">เลือกแอปก่อน</string>
     <string name="edit_mode_group_error_one_folder">ไอคอนที่เลือกไม่สามารถทำโฟลเดอร์ซ้ำได้</string>
     <string name="edit_mode_top_menu_finish">เสร็จสิ้น</string>
     <string name="edit_mode_uninstall">ถอนการติดตั้ง</string>
@@ -186,15 +193,22 @@
     <string name="guide_install_app_msg">แอปนี้ยังไม่ได้ติดตั้งบนเครื่อง ต้องการค้นหาและติดตั้งแอปตอนนี้หรือไม่?</string>
     <string name="guide_install_app_title">ต้องการค้นหาและติดตั้งแอปหรือไม่?</string>
     <string name="guide_tips_editing_mode">แตะ &amp; ค้างไว้เพื่อเลือกวิดเจ็ต</string>
+    <string name="home_gesture_content_center">ศูนย์เนื้อหา</string>
+    <string name="home_gesture_global_search">ค้นหา</string>
+    <string name="home_gesture_no_action">ไม่มี</string>
+    <string name="home_gesture_notification_bar">การแจ้งเตือน</string>
+    <string name="home_pull_down_action">เลื่อนลงบนหน้าจอหลัก</string>
     <string name="home_screen">หน้าจอหลัก</string>
+    <string name="home_slide_up_action">เลื่อนขึ้นบนหน้าจอหลัก</string>
     <string name="icon_reorganize_channel">จัดเรียงไอคอน</string>
     <string name="image_too_small_message">รูปภาพต้นฉบับขนาดเล็กเกินไป</string>
     <string name="install">ติดตั้ง</string>
     <string name="invalid_contact_shortcut">รายชื่อไม่ถูกต้อง</string>
     <string name="is_setting_wallpaper_message">กำลังตั้งค่าภาพพื้นหลัง…</string>
     <string name="is_system_wallpaper_message">ไม่สามารถลบไฟล์ของระบบได้</string>
-    <string name="launcher_auto_fill_empty_title">เติมเต็มเซลล์ที่ว่างเปล่า</string>
     <string name="launcher_not_exist">เกิดข้อผิดพลาด ย้อนกลับหน้าจอหลักและลองอีกครั้ง</string>
+    <string name="launcher_pull_down_title">เลื่อนลงบนหน้าจอหลัก</string>
+    <string name="launcher_slide_up_title">เลื่อนขึ้นบนหน้าจอหลัก</string>
     <string name="launcher_sliding_up_gesture">เลื่อนหน้าจอหลักขึ้นเพื่อเปิดการค้นหา</string>
     <string name="launcher_title">หน้าจอหลัก &amp; ล่าสุด</string>
     <string name="like">เพิ่มรายการโปรด</string>
@@ -210,7 +224,7 @@
     <string name="memory_clear_nothing_result">ไม่มีแคชให้ล้างแล้ว</string>
     <string name="memory_clear_result">ทำความสะอาดแล้ว %1$sB</string>
     <string name="menu_add">เพิ่ม</string>
-    <string name="menu_auto_fill">เติมเต็มเซลล์ที่ว่างเปล่า</string>
+    <string name="menu_auto_fill_of_uninstall">เติมเซลล์ของแอปที่ถอนการติดตั้ง</string>
     <string name="menu_back_desktop">กลับไปยังหน้าจอหลัก</string>
     <string name="menu_cell_setting">รูปแบบหน้าจอหลัก</string>
     <string name="menu_customize">การตั้งค่า</string>
@@ -231,6 +245,7 @@
     <string name="menu_wallpaper">ภาพพื้นหลัง</string>
     <string name="menu_workspace_preview">ตัวอย่างรายการหน้าจอหลัก</string>
     <string name="mi_wallpaper">ธีม MIUI</string>
+    <string name="minus_one_screen">App vault</string>
     <string name="miui_screen_config_title">การตั้งค่าหน้าจอหลัก</string>
     <string name="mtzgadget_missing_text">วิดเจ็ทไม่สามารถใช้งานได้</string>
     <string name="multi_selecting_tips">เพื่อจัดระเบียบแอป ลากไอคอนและวางที่นี่</string>
@@ -243,9 +258,9 @@
     <string name="online_wallpaper">ออนไลน์</string>
     <string name="open_personal_assistant_dialog_btn_cancel">ยกเลิก</string>
     <string name="open_personal_assistant_dialog_btn_confirm">ปิดใช้งาน</string>
-    <string name="open_personal_assistant_dialog_desc">คุณไม่สามารถใช้แอป vault และรับการอัพเดต ปิดใช้งานทันที?</string>
+    <string name="open_personal_assistant_dialog_desc">คุณไม่สามารถใช้ App vault และรับการอัพเดต ปิดใช้งานทันที?</string>
     <string name="open_personal_assistant_dialog_desc_international">คุณจะไม่สามารถใช้การ์ด App Vault (สต็อก, ปุ่มลัด ฯลฯ) และรับการอัพเดตหลังจากปิดคุณลักษณะนี้</string>
-    <string name="open_personal_assistant_dialog_title">ปิดใช้แอป vault</string>
+    <string name="open_personal_assistant_dialog_title">ปิดใช้ App vault</string>
     <string name="open_personal_assistant_title">App vault</string>
     <string name="out_of_space">ไม่มีที่ว่างบนหน้าจอหลักแล้ว</string>
     <string name="permdesc_install_shortcut">อนุญาตให้แอปเพิ่ม ปุ่มลัดโดยอัตโนมัติ</string>
@@ -277,6 +292,8 @@
     <string name="preferences_general_title">การตั้งค่าเพิ่มเติม</string>
     <string name="preferences_title">การตั้งค่าชุดเรียกใช้ระบบ</string>
     <string name="preferred_app_settings_not_selected">ไม่ได้เลือกไว้</string>
+    <string name="privacy_thumbnail_blur_summary">ตัวอย่างแอปเบลอล่าสุด</string>
+    <string name="privacy_thumbnail_blur_title">ดูตัวอย่างแอปเบลอ</string>
     <string name="quick_app">แอปด่วน</string>
     <string name="recents_config_title">ล่าสุด</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
@@ -304,6 +321,9 @@
     <string name="setting_wallpaper_tip">ปรับภาพโดยจีบนิ้วเข้าออกหรือปัด</string>
     <string name="settings">ตั้งค่า</string>
     <string name="settings_shortcut">การตั้งค่า</string>
+    <string name="shake_to_align_icons">เขย่าอุปกรณ์เพื่อเติมเซลล์ที่ว่างด้วยไอคอน</string>
+    <string name="shake_to_align_icons_summary">เขย่าอุปกรณ์ของคุณในขณะที่อยู่ในโหมดแก้ไขเพื่อเติมเซลล์ที่ว่างด้วยไอคอนโดยอัตโนมัติ</string>
+    <string name="shake_to_align_icons_title">เขย่าเพื่อเติมเซลล์ที่ว่าง</string>
     <string name="share">แชร์</string>
     <string name="show_all">แสดงทั้งหมด</string>
     <string name="show_mem_info_title">แสดงสถานะหน่วยความจำ</string>
@@ -318,6 +338,7 @@
     <string name="status_installing">กำลังติดตั้ง</string>
     <string name="status_paused">หยุดพัก</string>
     <string name="status_pending">กำลังรอ…</string>
+    <string name="system_shortcuts_more_operation">ข้อมูลแอป</string>
     <string name="title_jeejen">Jeejen หน้าจอหลัก</string>
     <string name="title_select_live_folder">เลือกโฟลเดอร์</string>
     <string name="title_select_shortcut">เลือกปุ่มลัด</string>
@@ -356,16 +377,4 @@
     <string name="widget_global_search">ค้นหา</string>
     <string name="widget_quick_function">ฟังค์ชั่นทางลัด</string>
     <string name="widgets_preview_title">เพิ่มวิดเจ็ต</string>
-    <string name="edit_mode_dual_app">สร้างแอปโคลน</string>
-    <string name="edit_mode_group_error_cant_delete_system_apps">ไม่สามารถถอนการติดตั้งแอประบบได้</string>
-    <string name="edit_mode_group_error_nothing_be_selected">เลือกแอปก่อน</string>
-    <string name="home_gesture_content_center">ศูนย์เนื้อหา</string>
-    <string name="home_gesture_global_search">ค้นหา</string>
-    <string name="home_gesture_no_action">ไม่มี</string>
-    <string name="home_gesture_notification_bar">การแจ้งเตือน</string>
-    <string name="home_pull_down_action">เลื่อนลงบนหน้าจอหลัก</string>
-    <string name="home_slide_up_action">เลื่อนขึ้นบนหน้าจอหลัก</string>
-    <string name="launcher_pull_down_title">เลื่อนลงบนหน้าจอหลัก</string>
-    <string name="launcher_slide_up_title">เลื่อนขึ้นบนหน้าจอหลัก</string>
-    <string name="minus_one_screen">App vault</string>
 </resources>

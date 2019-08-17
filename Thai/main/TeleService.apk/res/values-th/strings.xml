@@ -120,9 +120,9 @@
     <string name="available_via_carrier">พร้อมใช้งานผ่านทาง %1$s</string>
     <string name="available_via_passpoint">พร้อมใช้งานผ่านทาง %1$s</string>
     <string name="back">ย้อนกลับ</string>
-    <string name="badPin">รหัส PIN เก่าที่คุณป้อนไม่ถูกต้อง กรุณาลองใหม่</string>
-    <string name="badPin2">รหัส PIN2 ไม่ถูกต้อง ลองใหม่อีกครั้ง</string>
-    <string name="badPuk2">รหัส PUK2 ไม่ถูกต้อง ลองใหม่อีกครั้ง</string>
+    <string name="badPin">รหัส PIN เก่าที่คุณป้อนไม่ถูกต้อง ลองอีกครั้ง</string>
+    <string name="badPin2">รหัส PIN2 ไม่ถูกต้อง ลองอีกครั้ง</string>
+    <string name="badPuk2">รหัส PUK2 ไม่ถูกต้อง ลองอีกครั้ง</string>
     <string name="bad_pin">รหัส PIN ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="bad_pin2">รหัส PIN2 ที่คุณป้อนไม่ถูกต้อง</string>
     <string name="bad_pin2_old">รหัส PIN2 เก่าที่คุณป้อนไม่ถูกต้อง</string>
@@ -372,7 +372,7 @@
     <string name="cdma_system_select_dialogtitle">การเลือกระบบ</string>
     <string name="cdma_system_select_summary">เปลี่ยนโหมดการเชื่อมต่อกับเครือข่าย CDMA อื่น</string>
     <string name="cdma_system_select_title">การเลือกระบบ</string>
-    <string name="cell_bc_sms_disable">การส่งข้อความจากสถานีฐานเปิดใช้งาน</string>
+    <string name="cell_bc_sms_disable">การส่งข้อความจากสถานีฐานปิดใช้งาน</string>
     <string name="cell_bc_sms_enable">การส่งข้อความจากสถานีฐานเปิดใช้งาน</string>
     <string name="cell_broadcast_settings">การรับข้อความกรณีฉุกเฉิน</string>
     <string name="cell_broadcast_sms">การรับข้อความจากสถานีฐาน</string>
@@ -492,7 +492,7 @@
     <string name="connect_disconnect_vibrate_summary">สั่นเมื่อผู้รับสายปลายทางยกหู</string>
     <string name="connect_disconnect_vibrate_title">สั่นเมื่อมีผู้รับสาย</string>
     <string name="connect_disconnect_vibrate_weak">เบา</string>
-    <string name="connect_later">ไม่สามารถเชื่อมต่อกับเครือข่ายในขณะนี้ กรุณาลองใหม่ในภายหลัง</string>
+    <string name="connect_later">ไม่สามารถเชื่อมต่อกับเครือข่ายในขณะนี้ ลองอีกครั้งในภายหลัง</string>
     <string name="connected_via_carrier">เชื่อมต่อผ่าน %1$s แล้ว</string>
     <string name="connected_via_network_scorer">เชื่อมต่ออัตโนมัติผ่าน %1$s แล้ว</string>
     <string name="connected_via_network_scorer_default">เชื่อมต่ออัตโนมัติผ่านผู้ให้บริการการจัดอันดับเครือข่าย</string>
@@ -637,7 +637,7 @@
     <string name="emergency_call_area_code_edit_dialog_button">โทร</string>
     <string name="emergency_call_area_code_edit_dialog_hint">ป้อนรหัสพื้นที่</string>
     <string name="emergency_enable_radio_dialog_message">กำลังเปิดสัญญาณ…</string>
-    <string name="emergency_enable_radio_dialog_retry">ไม่มีสัญญาณ กำลังลองใหม่…</string>
+    <string name="emergency_enable_radio_dialog_retry">ไม่มีสัญญาณ กำลังลองอีกครั้ง…</string>
     <string name="emergency_enable_radio_dialog_title">เลขหมายฉุกเฉิน</string>
     <string name="empty_alert">%s จำเป็นและไม่สามารถเว้นว่างได้</string>
     <string name="empty_networks_list">ไม่พบเครือข่าย</string>
@@ -695,7 +695,7 @@
     <string name="enhanced_4g_lte_mode_title">โหมด 4G LTE เพิ่มประสิทธิภาพ</string>
     <string name="enhanced_4g_lte_mode_title_variant">การโทรขั้นสูง</string>
     <string name="enter_callbarring_password">ป้อนรหัสผ่านสำหรับจำกัดการโทร (4 หลัก)</string>
-    <string name="enter_input" formatted="false">ข้อความ USSD ต้องมีจำนวนอักขระระหว่าง %d และ %d ตัว กรุณาลองอีกครั้ง</string>
+    <string name="enter_input" formatted="false">ข้อความ USSD ต้องมีจำนวนอักขระระหว่าง %d และ %d ตัว ลองอีกครั้ง</string>
     <string name="enter_pin2_text">รหัส PIN2</string>
     <string name="enter_pin_text">PIN ของซิม:</string>
     <string name="entertainment_news_settings">ข่าวบันเทิง</string>
@@ -716,7 +716,7 @@
     <string name="fdn_contact_deleted">ลบการจำกัดเลขหมายโทรออกแล้ว</string>
     <string name="fdn_contact_updated">อัพเดทการจำกัดหมายเลขโทรออกแล้ว</string>
     <string name="fdn_disabled">การจำกัดเลขหมายโทรออกปิดใช้งาน</string>
-    <string name="fdn_enable_puk2_requested">รหัสผ่านไม่ถูกต้อง รหัส PIN2 ถูกบล็อก กรุณาเปลี่ยนรหัส PIN2 แล้วลองใหม่</string>
+    <string name="fdn_enable_puk2_requested">รหัสผ่านไม่ถูกต้อง รหัส PIN2 ถูกบล็อก กรุณาเปลี่ยนรหัส PIN2 แล้วลองอีกครั้ง</string>
     <string name="fdn_enabled">การจำกัดเลขหมายโทรออกเปิดใช้งาน</string>
     <string name="fdn_failed">การดำเนินงาน FDN ล้มเหลว</string>
     <string name="fdn_full">FDN ไม่ได้มีการอัพเดทเนื่องจากรายการเต็ม</string>
@@ -821,6 +821,7 @@
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">การตั้งค่าแพ็คเกจที่ใช้งาน</string>
     <string name="ivr_type_settings_hint">ป้อนรหัสแพ็คเกจข้อมูลของคุณ</string>
+    <string name="jump_to_mobile_network_setting">การตั้งค่าเครือข่ายมือถือ</string>
     <string name="keep_screen_on">เปิดหน้าจอค้าง</string>
     <string name="keep_screen_on_summary">หน้าจอจะไม่เข้าสู่โหมดสลีปขณะชาร์จ</string>
     <string name="keywords_carrier_settings_euicc">ผู้ให้บริการ, esim, ซิม, euicc</string>
@@ -892,11 +893,11 @@
     <string name="mhh_enable">ข้อมูลการแพทย์, สุขภาพและโรงพยาบาลเปิดใช้งาน</string>
     <string name="mi_sim_settings_summary">ใช้ข้อมูลมือถือโดยไม่ต้องใช้ซิมการ์ด</string>
     <string name="mi_sim_settings_title">ซิม Mi</string>
-    <string name="mismatchPin">รหัส PIN ที่คุณป้อนไม่ตรงกัน กรุณาลองใหม่</string>
-    <string name="mismatchPin2">รหัส PIN2 ไม่ตรงกัน ลองใหม่อีกครั้ง</string>
+    <string name="mismatchPin">รหัส PIN ที่คุณป้อนไม่ตรงกัน ลองอีกครั้ง</string>
+    <string name="mismatchPin2">รหัส PIN2 ไม่ตรงกัน ลองอีกครั้ง</string>
     <string name="mismatch_password">รหัสผ่านที่คุณป้อนไม่ตรงกัน</string>
     <string name="mismatch_pin">รหัส PIN ไม่ตรงกัน</string>
-    <string name="mismatch_pin2">รหัส PIN2 ไม่ตรงกัน ลองใหม่อีกครั้ง</string>
+    <string name="mismatch_pin2">รหัส PIN2 ไม่ตรงกัน ลองอีกครั้ง</string>
     <string name="missed_call_notify_five_times">5 ครั้ง</string>
     <string name="missed_call_notify_none">ไม่ต้องแจ้งเตือน</string>
     <string name="missed_call_notify_once">1 ครั้ง</string>
@@ -983,6 +984,7 @@
     <string name="network_info_message">ข้อความเครือข่าย</string>
     <string name="network_lte">LTE (แนะนำ)</string>
     <string name="network_message">ข้อความจากเครือข่าย</string>
+    <string name="network_mode_updating_title">ประเภทเครือข่าย</string>
     <string name="network_operator_category">เครือข่าย</string>
     <string name="network_query_error">เกิดข้อผิดพลาดขณะค้นหาเครือข่าย</string>
     <string name="network_select_title">เครือข่าย</string>
@@ -1074,11 +1076,11 @@
     <string name="ota_touch_activate">"ต้องทำการโทรพิเศษเพื่อเปิดใช้บริการโทรศัพท์ของคุณ 
 
 หลังจากกด “เปิดการใช้งาน” ให้ฟังคำแนะนำเพื่อเปิดใช้บริการโทรศัพท์ของคุณ"</string>
-    <string name="ota_try_again">ลองใหม่อีกครั้ง</string>
+    <string name="ota_try_again">ลองอีกครั้ง</string>
     <string name="ota_unsuccessful">"โทรศัพท์ของคุณไม่เปิดใช้งาน 
 คุณอาจต้องหาพื้นที่ที่มีสัญญาณดีกว่านี้ (ใกล้หน้าต่างหรือออกไปข้างนอก) 
 
-ลองใหม่อีกครั้งหรือติดต่อศูนย์บริการลูกค้าสำหรับตัวเลือกเพิ่มเติม"</string>
+ลองอีกครั้งหรือติดต่อศูนย์บริการลูกค้าสำหรับตัวเลือกเพิ่มเติม"</string>
     <string name="other_available_phone_accounts">บัญชีอื่นที่พร้อมใช้งาน</string>
     <string name="other_settings">การตั้งค่าการโทรอื่นๆ</string>
     <string name="other_settings_category">อื่นๆ</string>
@@ -1245,12 +1247,17 @@
     <string name="preferred_network_type_3g_only_warning">ในการเชื่อมต่อกับเครือข่าย ซิมการ์ดของคุณต้องรองรับระบบ 3G ด้วย</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">เลือกใช้ 3G ก่อน</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">เลือกใช้ 3G ก่อน (CDMA)</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM อัตโนมัติ</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">เลือกใช้ 4G ก่อน</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">เลือกใช้ 4G ก่อน (CDMA)</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM อัตโนมัติ</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred">เลือกใช้ 5G</string>
     <string name="preferred_network_type_pref_entries_auto">อัตโนมัติ</string>
     <string name="preferred_network_type_pref_entries_global">ทั่วโลก</string>
     <string name="preferred_network_type_pref_entries_only_2g">2G เท่านั้น (ประหยัดพลังงาน)</string>
+    <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM เท่านั้น</string>
     <string name="preferred_network_type_pref_entries_only_3g">3G เท่านั้น</string>
+    <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA เท่านั้น</string>
     <string name="preferred_network_type_title">ประเภทเครือข่ายที่เลือกใช้ก่อน</string>
     <string name="preferred_phone_account">บัญชีโทรศัพท์ที่เลือกใช้ก่อน</string>
     <string name="preferred_wificall_title">รูปแบบเครือข่าย</string>
@@ -1323,7 +1330,7 @@
     <string name="retail_demo_reset_title">ต้องป้อนรหัสผ่าน</string>
     <string name="retail_directory_disable">รายนามร้านค้าปิดใช้งาน</string>
     <string name="retail_directory_enable">รายนามร้านค้าปิดใช้</string>
-    <string name="retry_btn">ลองอีกครั้ง</string>
+    <string name="retry_btn">ลองใหม่</string>
     <string name="reverting_settings">กำลังเรียกคืนการตั้งค่า…</string>
     <string name="ringtone_silent">ไม่มี</string>
     <string name="ringtone_unknown">ไม่ทราบเสียงเรียกเข้า</string>
@@ -1359,6 +1366,7 @@
     <string name="selectContact">เลือกรายชื่อผู้ติดต่อ</string>
     <string name="select_application">เลือกแอปพลิเคชัน</string>
     <string name="select_automatically">เลือกเครือข่ายอัตโนมัติ</string>
+    <string name="select_dds_dialog_title">เลือกซิมข้อมูลมือถือเริ่มต้น</string>
     <string name="select_logd_size_dialog_title">เลือกขนาด Logger ต่อบัฟเฟอร์ไฟล์บันทึก</string>
     <string name="select_logd_size_title">ขนาดบัฟเฟอร์ของตัวบันทึก</string>
     <string name="select_logpersist_dialog_title">เลือกบัฟเฟอร์บันทึกที่จะจัดเก็บอย่างถาวรบนอุปกรณ์</string>

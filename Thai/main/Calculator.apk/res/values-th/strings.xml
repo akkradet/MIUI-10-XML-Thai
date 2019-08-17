@@ -15,7 +15,7 @@
     <string name="cal_paste">วาง</string>
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">ข้อความถูกคัดลอกแล้ว</string>
-    <string name="cancel">ยกเลิก </string>
+    <string name="cancel">ยกเลิก </string>
     <string name="children_education">การศึกษาของเด็ก</string>
     <string name="choose_currency">เลือกสกุลเงิน</string>
     <string name="choose_unit">เลือกหน่วย</string>
@@ -281,6 +281,7 @@
     <string name="tax_param_error">ป้อนอัตราเบี้ยประกันที่ถูกต้อง</string>
     <string name="tax_payment_period">จำนวนการชำระ</string>
     <string name="tax_rate_provider">คำนวณตามระเบียบภาษีใหม่ ข้อมูลได้รับจาก hexun.com และ East Money</string>
+    <string name="tax_rate_provider_east_money">คำนวณตามระเบียบภาษีใหม่ ข้อมูลได้รับจาก East Money</string>
     <string name="tax_result_real_get">หลังหักภาษี</string>
     <string name="tax_social_insurance">ประกันสังคม</string>
     <string name="tax_thershold_foreign">%s (ต่างประเทศ)</string>
@@ -294,7 +295,7 @@
     <string name="tax_unemployment">ว่างงาน</string>
     <string name="tax_update_time_format">ข้อมูลโดย HeXun (%s)</string>
     <string name="times" />
-    <string name="unKnow_error">พบข้อผิดพลาดไม่ทราบสาเหตุ</string>
+    <string name="unKnow_error">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="unit_data_display_area_acre">เอเคอร์</string>
     <string name="unit_data_display_area_are">อาร์</string>
     <string name="unit_data_display_area_ha">เฮกตาร์</string>
@@ -608,4 +609,6 @@
  ขนาดการอัพเดตเดลต้า: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s อัพเดต!</string>
     <string name="year" />
+    <string name="preference_use_voice">เอาต์พุตเสียง</string>
+    <string name="warn_locale_unsupport_for_voice">ยังไม่รองรับเอาต์พุตเสียงสำหรับภาษานี้</string>
 </resources>

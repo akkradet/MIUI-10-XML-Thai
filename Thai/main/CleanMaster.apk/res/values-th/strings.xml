@@ -53,7 +53,7 @@
     <string name="button_text_uninstall">ถอนการติดตั้ง</string>
     <string name="pref_category_title_cleanup_white_list">รายการยกเว้น</string>
     <string name="pref_title_cleanup_white_list">รายการยกเว้น</string>
-    <string name="pref_summary_cleanup_white_list">ห้ามทำความสะอาดแอปที่กำหนดเลือกไว้</string>
+    <string name="pref_summary_cleanup_white_list">ป้องกันไฟล์ที่เลือกไม่ให้ถูกลบทิ้ง</string>
     <string name="pref_category_title_auto_update_cleanup_db">การตั้งค่าเพิ่มเติม</string>
     <string name="pref_title_auto_update_cleanup_db">อัพเดทอัตโนมัติ</string>
     <string name="pref_summary_auto_update_cleanup_db">อัพเดทล่าสุด: %s</string>
@@ -185,8 +185,6 @@
     <string name="toast_backup_uninstall_success">การสำรองข้อมูลและถอนการติดตั้งเสร็จสมบูรณ์</string>
     <string name="activity_title_cache_data">ข้อมูลแอป</string>
     <string name="deepclean_cache_header_left">ไฟล์ข้อมูล: %d</string>
-    <string name="notification_title_of_garbage_cleanup">%s ของไฟล์ขยะ</string>
-    <string name="notification_summary_of_garbage_cleanup">แตะเพื่อล้างขยะ.</string>
     <string name="notification_summary_after_auto_cleanup">ทำความสะอาดแล้ว %s</string>
     <string name="toast_uninstall_success">ถอนการติดตั้งเสร็จสมบูรณ์</string>
     <string name="toast_app_no_residual_on_sdcard">ไม่มีไฟล์ของแอปที่จัดเก็บอยู่ใน SD การ์ด</string>
@@ -286,7 +284,7 @@
     <string name="garbage_month">ทำความสะอาดไป %s ในรอบเดือน</string>
     <string name="garbage_clean_detail">รายละเอียด</string>
     <string name="there_is_no">ไม่พบความผิดปกติ กรุณาเรียกใช้อีกภายหลัง</string>
-    <string name="no_network">เชื่อมต่อเครือข่ายไม่ได้ กรุณาลองใหม่ภายหลัง</string>
+    <string name="no_network">เชื่อมต่อเครือข่ายไม่ได้ กรุณาลองอีกครั้งในภายหลัง</string>
     <string name="back">ย้อนกลับ</string>
     <string name="total_clean">ทำความสะอาดไป: %s</string>
     <string name="toast_network_switch">แอปนี้สามารถเชื่อมกับต่ออินเตอร์เน็ตได้</string>
@@ -501,18 +499,18 @@
     <string name="guide_secure_dialog_title">เพิ่มประสิทธิภาพ</string>
     <string name="guide_secure_dialog_message">ประสิทธิภาพอุปกรณ์ของคุณต่ำกว่า 80 เพิ่มประสิทธิภาพตอนนี้หรือไม่?</string>
     <string name="guide_secure_dialog_positive">เพิ่มประสิทธิภาพ</string>
-    <string name="guide_secure_dialog_negative">ยกเลิก </string>
+    <string name="guide_secure_dialog_negative">ยกเลิก </string>
     <string name="guide_virus_dialog_title">สแกนป้องกันไวรัส</string>
     <string name="guide_virus_dialog_message">สแกนแอปและติดตั้งแพ็คเกจเพื่อปกป้องอุปกรณ์ของคุณจากไวรัสและมัลแวร์ สแกนอุปกรณ์ของคุณตอนนี้?</string>
     <string name="guide_virus_dialog_positive">สแกน</string>
-    <string name="guide_virus_dialog_negative">ยกเลิก </string>
+    <string name="guide_virus_dialog_negative">ยกเลิก </string>
     <string name="tips_low_storage_dialog_title">พื้นที่จัดเก็บสำหรับใช้งานต่ำ</string>
     <string name="tips_low_storage_dialog_msg_storage">คุณใช้พื้นที่เก็บข้อมูล 90% ถอนการติดตั้งแอปที่คุณไม่ได้ใช้</string>
     <string name="tips_low_storage_dialog_msg_wechat">ขนาดแคชของ WeChat มากถึง 3GB อาจทำให้อุปกรณ์ของคุณทำงานช้าลง ล้างแคช WeChat เดี๋ยวนี้หรือไม่?</string>
     <string name="tips_low_storage_dialog_msg_qq">ขนาดแคชของ QQ มากถึง 3GB อาจทำให้อุปกรณ์ของคุณทำงานช้าลง ล้างแคช QQ เดี๋ยวนี้หรือไม่?</string>
     <string name="tips_low_storage_dialog_ok_storage">เพิ่มพื้นที่</string>
     <string name="tips_low_storage_dialog_ok">ล้าง</string>
-    <string name="tips_low_storage_dialog_cancel">ยกเลิก </string>
+    <string name="tips_low_storage_dialog_cancel">ยกเลิก </string>
     <string name="wechat_msg_time_long">dd-MM-yyyy</string>
     <string name="wechat_msg_time_short">dd-MM</string>
     <string name="wechat_video_time">%1$s:%2$s</string>
@@ -531,7 +529,7 @@
     <string name="whatsapp_clean_exit_confirm_cancel">ให้สแกนต่อ</string>
     <string name="whatsapp_clean_exit_confirm_ok">หยุด</string>
     <string name="whatsapp_delete_confirm_ok">ตกลง</string>
-    <string name="whatsapp_delete_confirm_cancel">ยกเลิก </string>
+    <string name="whatsapp_delete_confirm_cancel">ยกเลิก </string>
     <string name="whatsapp_content_empty">ไม่มีรายการ</string>
     <string name="whatsapp_delete_confirm_message">ลบทันที?</string>
     <string name="whatsapp_delete_done">เสร็จสิ้น</string>
@@ -565,4 +563,10 @@
     <string name="one_tap_clean_M">%dMB</string>
     <string name="one_tap_clean_GB">%sGB</string>
     <string name="security_center_slogan">ความปลอดภัย ระวังอยู่เสมอ</string>
+    <string name="notification_garbage_cleanup_title">ล้างไฟล์ขยะ</string>
+    <string name="notification_garbage_cleanup_summary">ขนาดขยะมากถึง %s</string>
+    <string name="notification_low_memory_cache_title">ล้างแคช</string>
+    <string name="notification_low_memory_cache_summary">พื้นที่จัดเก็บข้อมูลเหลือน้อยกว่า 1.5GB</string>
+    <string name="notification_low_memory_deepclean_title">พื้นที่จัดเก็บเหลือน้อย</string>
+    <string name="notification_low_memory_deepclean_summary">ทำความสะอาดเชิงลึกที่จัดเก็บข้อมูลในอุปกรณ์ของคุณ</string>
 </resources>

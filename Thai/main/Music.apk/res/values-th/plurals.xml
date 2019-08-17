@@ -35,6 +35,9 @@
     <plurals name="comment_count">
         <item quantity="other">%d ความคิดเห็น</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d วันที่แล้ว</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">ลบ %d รายการ?</item>
     </plurals>
@@ -58,7 +61,7 @@
         <item quantity="other">กำลังดาวน์โหลด &lt;font color=\"red\">%d เพลง&lt;/font></item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">ดาวน์โหลดฟรีได้อีก\"%d เพลง</item>
+        <item quantity="other">เหลือดาวน์โหลดฟรีอีก %d ครั้ง</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">เลือกไว้ %d รายการ</item>
@@ -91,6 +94,6 @@
         <item quantity="other">ดู %1$s</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">คงเหลือ %d วัน</item>
+        <item quantity="other">เหลืออีก %d วัน</item>
     </plurals>
 </resources>

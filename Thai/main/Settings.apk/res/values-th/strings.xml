@@ -7046,4 +7046,9 @@ akkradet7@gmail.com"</string>
 	<string name="ext_powermenu_title">ส่วนขยายปุ่ม power</string>
 	<string name="toast_appname_title">แสดงชื่อแอพสำหรับแจ้งเตือน</string>
     <string name="toast_appname_summary">แสดงชื่อแอพสำหรับแจ้งเตือน</string>
+	<string name="power_usage_summary_title_new">แบตเตอรี่ &amp; ประสิทธิภาพ</string>
+	<string name="feedback_settings">ข้อเสนอแนะ</string>
+    <string name="show_app_titles">ซ่อนชื่อแอป</string>
+    <string name="show_icon_shadows_title">แสดงเงาแอปไอคอน</string>
+	<string name="notch_and_status_bar_settings">การแจ้งเตือน &amp; แถบสถานะ</string>
 </resources>
