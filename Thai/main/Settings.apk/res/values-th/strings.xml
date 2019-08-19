@@ -2527,7 +2527,7 @@ aptX Adaptive: โหมด Codec"</string>
     <string name="home">การตั้งค่าหน้าจอหลัก</string>
     <string name="home_app">ชุดเรียกใช้ระบบ</string>
     <string name="home_key">โฮม</string>
-    <string name="home_title">หน้าจอหลัก</string>
+    <string name="home_title">หน้าจอหลัก &amp; ล่าสุด</string>
     <string name="home_work_profile_not_supported">ไม่สนับสนุนโปรไฟล์งาน</string>
     <string name="http_invoke_app">แอปเว็บ</string>
     <string name="http_invoke_app_summary">เปิดแอปได้เร็วขึ้นโดยไม่ต้องติดตั้ง</string>
@@ -7051,4 +7051,9 @@ akkradet7@gmail.com"</string>
     <string name="show_app_titles">ซ่อนชื่อแอป</string>
     <string name="show_icon_shadows_title">แสดงเงาแอปไอคอน</string>
 	<string name="notch_and_status_bar_settings">การแจ้งเตือน &amp; แถบสถานะ</string>
+	<string name="status_bar_settings_show_lte_for_4g">แสดงไอคอน LTE สำหรับ 4G</string>
+	<string name="status_bar_settings_show_weather">แสดงสภาพอากาศในการแจ้งเตือน</string>
+    <string name="status_bar_settings_notification_use_app_icon">ใช้ไอคอนแอปสำหรับการแจ้งเตือน</string>
+	<string name="default_vol_stream_title">การควบคุมระดับเสียงเริ่มต้น</string>
+    <string name="unmute_sound_title">เสียงเปิดเสียง</string>
 </resources>
