@@ -6813,8 +6813,8 @@ akkradet7@gmail.com"</string>
     <string name="write_tag">เขียน</string>
     <string name="wrong_pin_code_pukked">รหัส PIN ของซิมไม่ถูกต้อง ตอนนี้คุณต้องติดต่อผู้ให้บริการเพื่อปลดล็อกอุปกรณ์ของคุณ</string>
     <string name="xiaomi_account">บัญชี Mi</string>
-    <string name="xiaomi_cloud_service">Mi คลาวด์</string>
-    <string name="xiaomi_cloud_service_description">Mi คลาวด์ สามารถซิงค์รายชื่อ รูปภาพ และรายการอื่นๆหระหว่างอุปกรณ์ของคุณได้ ยังสามารถเปิด \"ค้นหาอุปกรณ์\" เมื่อต้องการให้ Mi คลาวด์ ทำงานปกติ</string>
+    <string name="xiaomi_cloud_service">xiaomi คลาวด์</string>
+    <string name="xiaomi_cloud_service_description">xiaomi คลาวด์ สามารถซิงค์รายชื่อ รูปภาพ และรายการอื่นๆหระหว่างอุปกรณ์ของคุณได้ ยังสามารถเปิด \"ค้นหาอุปกรณ์\" เมื่อต้องการให้ Mi คลาวด์ ทำงานปกติ</string>
     <string name="xiaomi_cloud_service_disabled">ปิด</string>
     <string name="xiaomi_cloud_service_unknown">ไม่ทราบ</string>
     <string name="xiaomi_money_service">Mi เครดิต</string>
