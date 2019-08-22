@@ -787,4 +787,7 @@
     <string name="mimoji_earring">ต่างหู</string>
     <string name="ultra_wide_recommend_tip_hint_sat">ลองโหมดมุมกว้างพิเศษ 0.6X</string>
     <string name="lying_direct_hint">ทิศทางปัจจุบัน</string>
+	<string name="pref_watermark_off">ปิด</string>
+     <string name="pref_watermark_on">เปิด</string>
+	<string name="pref_watermark_title">ลายน้ำ</string>
 </resources>
