@@ -7056,4 +7056,5 @@ akkradet7@gmail.com"</string>
     <string name="status_bar_settings_notification_use_app_icon">ใช้ไอคอนแอปสำหรับการแจ้งเตือน</string>
 	<string name="default_vol_stream_title">การควบคุมระดับเสียงเริ่มต้น</string>
     <string name="unmute_sound_title">เสียงเปิดเสียง</string>
+	<string name="connection_and_sharing">การเชื่อมต่อ &amp; การแชร์</string>
 </resources>
